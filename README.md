@@ -8,5 +8,5 @@ This lets you send the Post Deployment status for your Azure sites to a Hubot in
 
 ### Configure in Azure
 
-Navigate to `https://{your-azure-site}.scm.azurewebsites.net/WebHooks`
-Add a url to `{your-hubot-url}/hubot/kudu/{room}`, where `{room}` is the room you want the deployment message to go to.
+1. Navigate to `https://{your-azure-site}.scm.azurewebsites.net/WebHooks`
+2. Add a url to `{your-hubot-url}/hubot/kudu/{room}`, where `{room}` is the room you want the deployment message to go to.

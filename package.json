@@ -1,0 +1,21 @@
+{
+  "name": "hubot-azure-notifier",
+  "version": "0.1.0",
+  "description": "Azure deployment notifier for Hubot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgwill/hubot-azure-notifier.git"
+  },
+  "keywords": [
+    "hubot",
+    "azure",
+    "kudu"
+  ],
+  "author": "sgwill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgwill/hubot-azure-notifier/issues"
+  },
+  "homepage": "https://github.com/sgwill/hubot-azure-notifier",
+  "readmeFilename": "README.md"
+}
